@@ -35,3 +35,6 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### OAuth2.0 OIDC ID & Secret 제외 ###
+src/main/resources/application-local.properties
